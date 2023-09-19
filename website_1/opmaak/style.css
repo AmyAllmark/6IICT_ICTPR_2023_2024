@@ -15,7 +15,7 @@ header, footer {
 }
 
 body {
-    background-image: url("../afbeeldingen/achtergrond.jpg");
+    background-image: url("../afbeeldingen/afbeelding_1_griekenland.jpg");
     background-size: cover;
 }
 
@@ -37,7 +37,7 @@ article {
     width: 85%;
     margin: 10px;
     padding: 10px;
-    background-color: #64F5E6;
+    background-color: #dbecea;
     text-align: center;
     /* lichtblauw */
 }
@@ -45,7 +45,7 @@ article {
 .menu {
     display: block;
     width: 70px;
-    background-color: #64F5E6;
+    background-color: #0b4472;
     /* lichtblauw */
     text-decoration: none;
     padding: 10px;
