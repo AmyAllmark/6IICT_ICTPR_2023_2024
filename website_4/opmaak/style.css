@@ -32,7 +32,7 @@ h1 {
 	font-size: 50px;
 	letter-spacing: 0.25em;
 	background-color: black;
-	opacity: 0.5;
+	opacity: 0.5; /*om tekst doorzichtig te maken*/
 	}
 
 nav {
@@ -75,9 +75,10 @@ article {
 	}
 	
 footer {
-	background-color: grey;
+	background-color: rgb(43, 38, 38);
 	padding: 5px;
 	clear: both;
+	border-radius: 5cm;
 	}
 	
 footer p {
@@ -92,4 +93,10 @@ footer p {
 
 img.pijl{
 	float:right;
+}
+#footer-tekst{
+
+	color: aliceblue;
+	font-weight: bolder;
+
 }
